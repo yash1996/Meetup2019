@@ -47,5 +47,5 @@ Curious  about Artificial Intelligence, Machine Learning, or Deep Learning?  Wha
 
 ## Contributing
 
-We appreciate all contributions. If you are planning to contribute back by implementing any research paper or by adding extra content to the session it's very much appreciated.
+We appreciate all contributions. If you are planning to contribute back by implementing any research paper or by adding extra content to the session it's very much appreciated. Help us in making this repo a unified source for Deep Learning.
 
