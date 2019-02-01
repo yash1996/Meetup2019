@@ -37,6 +37,15 @@ We are dividing our Meetup Sessions in Multiple  phases.Theses Phases are define
 
 
 
-## Who is the target audience?
+### Who is the target audience?
 
 Curious  about Artificial Intelligence, Machine Learning, or Deep Learning?  What's the difference between them? Want to understand how others are  using ML and DL creatively? If you are new to these areas or familiar  but curious and want to learn what is going on behind the scenes, then  this meetup is for you.All skill levels are welcome.
+
+
+
+
+
+## Contributing
+
+We appreciate all contributions. If you are planning to contribute back by implementing any research paper or by adding extra content to the session it's very much appreciated.
+
